@@ -1,8 +1,8 @@
 ---
 title: Get started with .NET
 description: Create a Hello World .NET app.
-author: adegeo
-ms.author: adegeo
+author: billwagner
+ms.author: wiwagn
 ms.date: 01/12/2026
 ms.custom: vs-dotnet, devdivchpfy22
 ms.topic: tutorial
