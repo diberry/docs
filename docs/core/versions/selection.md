@@ -2,7 +2,7 @@
 title: Select which .NET version to use
 description: Learn how .NET automatically finds and chooses runtime versions for your program. Additionally, this article teaches you how to force a specific version.
 author: adegeo
-ms.author: adegeo
+ms.author: wiwagn
 ms.date: 05/15/2026
 ai-usage: ai-assisted
 ---
