@@ -3,7 +3,7 @@ title: What's new in .NET Core 3.1
 description: Learn about the new features found in .NET Core 3.1.
 ms.date: 07/07/2022
 author: adegeo
-ms.author: adegeo
+ms.author: wiwagn
 dev_langs:
   - "csharp"
 ms.update-cycle: 3650-days

@@ -3,7 +3,7 @@ title: What's new in .NET Core 3.0
 description: Learn about the new features found in .NET Core 3.0.
 ms.date: 01/27/2020
 author: adegeo
-ms.author: adegeo
+ms.author: wiwagn
 dev_langs:
   - "csharp"
 ms.custom: linux-related-content
