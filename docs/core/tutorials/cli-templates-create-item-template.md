@@ -6,7 +6,7 @@ author: adegeo
 ms.date: 10/23/2025
 ai-usage: ai-assisted
 ms.topic: tutorial
-ms.author: adegeo
+ms.author: wiwagn
 ---
 
 # Tutorial: Create an item template
