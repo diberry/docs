@@ -2,7 +2,7 @@
 title: Enable tab completion
 description: This article teaches you how to enable tab completion for the .NET CLI for PowerShell (pwsh), Bash, zsh, fish, and nushell.
 author: adegeo
-ms.author: adegeo
+ms.author: wiwagn
 ms.topic: how-to
 ms.date: 11/14/2025
 ai-usage: ai-assisted

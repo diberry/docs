@@ -2,7 +2,7 @@
 title: .NET templates for authors
 description: Learn how to author .NET templates, including how they're structured, configured, and distributed using the dotnet new command and Visual Studio.
 author: adegeo
-ms.author: adegeo
+ms.author: wiwagn
 ms.topic: overview
 ms.date: 07/29/2026
 ai-usage: ai-assisted

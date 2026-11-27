@@ -2,7 +2,7 @@
 title: dotnet-scaffold telemetry
 description: Learn about the telemetry collected by the dotnet-scaffold CLI tool.
 author: tdykstra
-ms.author: tdykstra
+ms.author: wiwagn
 ms.date: 08/03/2026
 ai-usage: ai-assisted
 ---
